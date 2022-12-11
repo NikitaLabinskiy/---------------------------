@@ -49,3 +49,5 @@ string[] FindTheWords(string[] array)
     }
     return result;
 }
+
+Nikita zhopa
